@@ -60,6 +60,7 @@ digraph ArrayLanguages {
   "R" -> "Julia"
   "R" -> "Rowan"
   "SHARP APL" -> "A+"
+  "SHARP APL" -> "Dyalog APL"
   "SHARP APL" -> "J"
   "SOL" -> "IDL"
   "dzaima/APL" -> "BQN"
