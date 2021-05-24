@@ -4,6 +4,7 @@ digraph ArrayLanguages {
   node [style=filled]
   rankdir=LR
 
+  APL -> APL360
   "A+" -> "BQN"
   "A+" -> "K"
   "APL+" -> "APL64"
@@ -11,14 +12,14 @@ digraph ArrayLanguages {
   "APL PLUS" -> "SHARP APL"
   "APL2" -> "GNU APL"
   "APL2" -> "NARS2000"
-  "APL\\360" -> "APL PLUS"
-  "APL\\360" -> "J"
-  "APL\\360" -> "CoSy"
-  "APL\\360" -> "MATLAB"
-  "APL\\360" -> "Mathematica"
-  "APL\\360" -> "R"
-  "APL\\360" -> "Nial"
-  "APL\\360" -> "SOL"
+  APL360 -> "APL PLUS"
+  APL360 -> "J"
+  APL360 -> "CoSy"
+  APL360 -> "MATLAB"
+  APL360 -> "Mathematica"
+  APL360 -> "R"
+  APL360 -> "Nial"
+  APL360 -> "SOL"
   "APL\\iv" -> "BQN"
   "Co-dfns" -> "BQN"
   "Dyalog APL" -> "KAP"
@@ -27,7 +28,7 @@ digraph ArrayLanguages {
   "Dyalog APL" -> "BQN"
   "Dyalog APL" -> "Co-dfns"
   "Dyalog APL" -> "Dyalog APL Extended" [dir = both]
-  "Dyalog APL" -> "NARS2000" [dir = both]
+  "Dyalog APL" -> "NARS2000"
   "Dyalog APL" -> "GNU APL"
   "Dyalog APL" -> "RAD"
   "Dyalog APL" -> "Rowan"
@@ -35,12 +36,10 @@ digraph ArrayLanguages {
   "Dyalog APL Extended" -> "dzaima/APL"
   "GNU APL" -> "KAP"
   "I" -> "BQN"
-  "Iverson Notation\n“A Programming Language”" -> "APL\\360"
   "J" -> "BQN"
   "J" -> "Dyalog APL"
   "J" -> "Glee"
   "J" -> "I"
-  "J" -> "K"
   "J" -> "Rowan"
   "J" -> "SaC"
   "K" -> "April"
@@ -61,14 +60,13 @@ digraph ArrayLanguages {
   "R" -> "Julia"
   "R" -> "Rowan"
   "SHARP APL" -> "A+"
-  "SHARP APL" -> "Dyalog APL"
   "SHARP APL" -> "J"
   "SOL" -> "IDL"
   "dzaima/APL" -> "BQN"
-  "mathematical notation" -> "Iverson Notation\n“A Programming Language”"
+  "mathematical notation" -> APL
 
   "mathematical notation" [color=white]
-  "Iverson Notation\n“A Programming Language”" [color=white]
-
+  APL [label = "Iverson Notation\n“A Programming Language”"] [color=white]
+  APL360 [label = "&#55349;&#56372;&#55349;&#56387;&#55349;&#56383;\\360"]
 }
 # this comment somehow removes errors
