@@ -12,6 +12,7 @@ digraph ArrayLanguages {
   "APL+" -> "APL64"
   "APL+" -> "VisualAPL"
   "APL.68000" -> "APLX"
+  "APL/700" -> "APL B"
   "APL/700" -> "APL Machine"
   "APL.SV" -> "APL/700"
   "APL.SV" -> "APL2"
@@ -20,6 +21,7 @@ digraph ArrayLanguages {
   "APL2" -> "APL#"
   "APL2" -> "APLX"
   "APL2" -> "APL\\iv"
+  "APL2" -> "APL B"
   "APL2" -> "April"
   "APL2" -> "Dyalog APL"
   "APL2" -> "GNU APL"
@@ -151,6 +153,7 @@ digraph ArrayLanguages {
   APL360 -> "SaC"
   APL360 -> "SOL"
   APL360 -> "Speakeasy"
+  APL360 -> "TCC APL"
 
   "mathematical notation" [color=white]
   APL [label = "Iverson Notation\n“A Programming Language”"] [color=white]
