@@ -11,6 +11,7 @@ digraph ArrayLanguages {
   "APL PLUS" -> "APL Machine"
   "APL PLUS" -> "NARS"
   "APL PLUS" -> "SHARP APL"
+  "APL2" -> "ELI"
   "APL2" -> "GNU APL"
   "APL2" -> "NARS2000"
   APL360 -> "APL PLUS"
@@ -22,6 +23,9 @@ digraph ArrayLanguages {
   APL360 -> "Nial"
   APL360 -> "SOL"
   "APL\\iv" -> "BQN"
+  "BQN" -> "Goal"
+  "BQN" -> "KAP"
+  "BQN" -> "Uiua"
   "Co-dfns" -> "BQN"
   "Dyalog APL" -> "KAP"
   "Dyalog APL" -> "APL\\iv"
@@ -31,7 +35,6 @@ digraph ArrayLanguages {
   "Dyalog APL" -> "Dyalog APL Extended" [dir = both]
   "Dyalog APL" -> "NARS2000"
   "Dyalog APL" -> "GNU APL"
-  "Dyalog APL" -> "RAD"
   "Dyalog APL" -> "Rowan"
   "Dyalog APL" -> "dzaima/APL"
   "Dyalog APL Extended" -> "dzaima/APL"
@@ -46,9 +49,10 @@ digraph ArrayLanguages {
   "K" -> "April"
   "K" -> "CoSy"
   "K" -> "Glee"
+  "K" -> "Goal"
   "K" -> "I"
+  "K" -> "Klong"
   "K" -> "Q"
-  "K" -> "RAD"
   "K" -> "SaC"
   "MATLAB" -> "Julia"
   "Mathematica" -> "Julia"
@@ -66,7 +70,6 @@ digraph ArrayLanguages {
   "SHARP APL" -> "Dyalog APL"
   "SHARP APL" -> "J"
   "SOL" -> "IDL"
-  "dzaima/APL" -> "BQN"
   "mathematical notation" -> APL
 
   "mathematical notation" [color=white]
