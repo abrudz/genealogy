@@ -1,518 +1,568 @@
-<svg width="2428pt" height="1609pt" viewBox="0.00 0.00 2428.00 1609.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph1" class="graph" transform="scale(1 1) rotate(0) translate(4 1605)">
+<svg width="2542pt" height="1866pt" viewBox="0.00 0.00 2542.00 1866.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph1" class="graph" transform="scale(1 1) rotate(0) translate(4 1862)">
 <title>ArrayLanguages</title>
-<polygon fill="white" stroke="white" points="-4,5 -4,-1605 2425,-1605 2425,5 -4,5"></polygon>
+<polygon fill="white" stroke="white" points="-4,5 -4,-1862 2539,-1862 2539,5 -4,5"></polygon>
 <!-- APL -->
 <g id="node1" class="node"><title>APL</title>
-<ellipse fill="white" stroke="white" cx="434" cy="-272" rx="131.959" ry="29.3315"></ellipse>
-<text text-anchor="middle" x="434" y="-276.2" font-family="Times,serif" font-size="14.00">Iverson Notation</text>
-<text text-anchor="middle" x="434" y="-259.4" font-family="Times,serif" font-size="14.00">“A Programming Language”</text>
+<ellipse fill="white" stroke="white" cx="434" cy="-270" rx="131.959" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="434" y="-274.2" font-family="Times,serif" font-size="14.00">Iverson Notation</text>
+<text text-anchor="middle" x="434" y="-257.4" font-family="Times,serif" font-size="14.00">“A Programming Language”</text>
 </g>
 <!-- APL360 -->
 <g id="node3" class="node"><title>APL360</title>
-<ellipse fill="lightgrey" stroke="black" cx="750" cy="-272" rx="75.8972" ry="18"></ellipse>
-<text text-anchor="middle" x="750" y="-267.8" font-family="Times,serif" font-size="14.00">𝐴𝑃𝐿\360</text>
+<ellipse fill="lightgrey" stroke="black" cx="750" cy="-270" rx="75.8972" ry="18"></ellipse>
+<text text-anchor="middle" x="750" y="-265.8" font-family="Times,serif" font-size="14.00">𝐴𝑃𝐿\360</text>
 </g>
 <!-- APL&#45;&gt;APL360 -->
 <g id="edge2" class="edge"><title>APL-&gt;APL360</title>
-<path fill="none" stroke="black" d="M565.891,-272C599,-272 633.704,-272 663.887,-272"></path>
-<polygon fill="black" stroke="black" points="663.941,-275.5 673.941,-272 663.941,-268.5 663.941,-275.5"></polygon>
+<path fill="none" stroke="black" d="M565.891,-270C599,-270 633.704,-270 663.887,-270"></path>
+<polygon fill="black" stroke="black" points="663.941,-273.5 673.941,-270 663.941,-266.5 663.941,-273.5"></polygon>
 </g>
 <!-- APL PLUS -->
 <g id="node12" class="node"><title>APL PLUS</title>
-<ellipse fill="lightgrey" stroke="black" cx="996" cy="-1103" rx="55.0951" ry="18"></ellipse>
-<text text-anchor="middle" x="996" y="-1098.8" font-family="Times,serif" font-size="14.00">APL PLUS</text>
+<ellipse fill="lightgrey" stroke="black" cx="996" cy="-1365" rx="55.0951" ry="18"></ellipse>
+<text text-anchor="middle" x="996" y="-1360.8" font-family="Times,serif" font-size="14.00">APL PLUS</text>
 </g>
 <!-- APL360&#45;&gt;APL PLUS -->
-<g id="edge20" class="edge"><title>APL360-&gt;APL PLUS</title>
-<path fill="none" stroke="black" d="M756.323,-290.129C787.74,-397.127 948.856,-945.847 986.929,-1075.51"></path>
-<polygon fill="black" stroke="black" points="983.571,-1076.5 989.747,-1085.11 990.288,-1074.53 983.571,-1076.5"></polygon>
+<g id="edge22" class="edge"><title>APL360-&gt;APL PLUS</title>
+<path fill="none" stroke="black" d="M755.032,-288.092C783.469,-415.713 953.745,-1179.86 988.722,-1336.83"></path>
+<polygon fill="black" stroke="black" points="985.324,-1337.67 990.915,-1346.67 992.157,-1336.15 985.324,-1337.67"></polygon>
 </g>
 <!-- J -->
-<g id="node26" class="node"><title>J</title>
-<ellipse fill="lightgrey" stroke="black" cx="1437" cy="-561" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1437" y="-556.8" font-family="Times,serif" font-size="14.00">J</text>
+<g id="node28" class="node"><title>J</title>
+<ellipse fill="lightgrey" stroke="black" cx="1437" cy="-640" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="1437" y="-635.8" font-family="Times,serif" font-size="14.00">J</text>
 </g>
 <!-- APL360&#45;&gt;J -->
-<g id="edge22" class="edge"><title>APL360-&gt;J</title>
-<path fill="none" stroke="black" d="M769.536,-289.422C801.014,-318.148 867.952,-375.59 934,-409 1098.42,-492.171 1316.55,-538.826 1400.76,-554.728"></path>
-<polygon fill="black" stroke="black" points="1400.34,-558.211 1410.81,-556.601 1401.62,-551.329 1400.34,-558.211"></polygon>
+<g id="edge24" class="edge"><title>APL360-&gt;J</title>
+<path fill="none" stroke="black" d="M770.816,-287.382C803.325,-315.345 870.71,-371.025 934,-409 1102.21,-509.928 1321.97,-596.996 1403.62,-627.958"></path>
+<polygon fill="black" stroke="black" points="1402.51,-631.28 1413.1,-631.536 1404.98,-624.731 1402.51,-631.28"></polygon>
 </g>
 <!-- CoSy -->
-<g id="node28" class="node"><title>CoSy</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-419" rx="32.5039" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-414.8" font-family="Times,serif" font-size="14.00">CoSy</text>
+<g id="node30" class="node"><title>CoSy</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-456" rx="32.5039" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-451.8" font-family="Times,serif" font-size="14.00">CoSy</text>
 </g>
 <!-- APL360&#45;&gt;CoSy -->
-<g id="edge24" class="edge"><title>APL360-&gt;CoSy</title>
-<path fill="none" stroke="black" d="M783.443,-288.209C819.306,-305.299 879.258,-331.449 934,-344 1292.38,-426.167 1741.22,-423.345 1878.33,-420.228"></path>
-<polygon fill="black" stroke="black" points="1878.49,-423.726 1888.41,-419.986 1878.33,-416.728 1878.49,-423.726"></polygon>
+<g id="edge26" class="edge"><title>APL360-&gt;CoSy</title>
+<path fill="none" stroke="black" d="M789.862,-285.434C870.275,-315.934 1061.35,-381 1228,-381 1228,-381 1228,-381 1438,-381 1604.89,-381 1800.47,-425.446 1881.67,-445.907"></path>
+<polygon fill="black" stroke="black" points="1880.89,-449.322 1891.45,-448.396 1882.62,-442.538 1880.89,-449.322"></polygon>
 </g>
 <!-- MATLAB -->
-<g id="node30" class="node"><title>MATLAB</title>
-<ellipse fill="lightgrey" stroke="black" cx="996" cy="-308" rx="51.6054" ry="18"></ellipse>
-<text text-anchor="middle" x="996" y="-303.8" font-family="Times,serif" font-size="14.00">MATLAB</text>
+<g id="node32" class="node"><title>MATLAB</title>
+<ellipse fill="lightgrey" stroke="black" cx="996" cy="-162" rx="51.6054" ry="18"></ellipse>
+<text text-anchor="middle" x="996" y="-157.8" font-family="Times,serif" font-size="14.00">MATLAB</text>
 </g>
 <!-- APL360&#45;&gt;MATLAB -->
-<g id="edge26" class="edge"><title>APL360-&gt;MATLAB</title>
-<path fill="none" stroke="black" d="M814.789,-281.412C852.993,-287.048 901.144,-294.152 938.061,-299.599"></path>
-<polygon fill="black" stroke="black" points="937.754,-303.092 948.157,-301.089 938.775,-296.167 937.754,-303.092"></polygon>
+<g id="edge28" class="edge"><title>APL360-&gt;MATLAB</title>
+<path fill="none" stroke="black" d="M786.741,-254.18C831.199,-234.502 906.946,-200.975 953.801,-180.236"></path>
+<polygon fill="black" stroke="black" points="955.326,-183.388 963.054,-176.14 952.493,-176.987 955.326,-183.388"></polygon>
 </g>
 <!-- Mathematica -->
-<g id="node32" class="node"><title>Mathematica</title>
-<ellipse fill="lightgrey" stroke="black" cx="996" cy="-236" rx="61.3916" ry="18"></ellipse>
-<text text-anchor="middle" x="996" y="-231.8" font-family="Times,serif" font-size="14.00">Mathematica</text>
+<g id="node34" class="node"><title>Mathematica</title>
+<ellipse fill="lightgrey" stroke="black" cx="996" cy="-90" rx="61.3916" ry="18"></ellipse>
+<text text-anchor="middle" x="996" y="-85.8" font-family="Times,serif" font-size="14.00">Mathematica</text>
 </g>
 <!-- APL360&#45;&gt;Mathematica -->
-<g id="edge28" class="edge"><title>APL360-&gt;Mathematica</title>
-<path fill="none" stroke="black" d="M814.789,-262.588C850.388,-257.336 894.624,-250.81 930.359,-245.537"></path>
-<polygon fill="black" stroke="black" points="931.294,-248.937 940.676,-244.015 930.272,-242.012 931.294,-248.937"></polygon>
+<g id="edge30" class="edge"><title>APL360-&gt;Mathematica</title>
+<path fill="none" stroke="black" d="M771.176,-252.659C804.19,-224.623 872.269,-168.225 934,-126 941.448,-120.905 949.639,-115.773 957.534,-111.044"></path>
+<polygon fill="black" stroke="black" points="959.427,-113.991 966.267,-105.899 955.874,-107.959 959.427,-113.991"></polygon>
 </g>
 <!-- R -->
-<g id="node34" class="node"><title>R</title>
-<ellipse fill="lightgrey" stroke="black" cx="996" cy="-164" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="996" y="-159.8" font-family="Times,serif" font-size="14.00">R</text>
+<g id="node36" class="node"><title>R</title>
+<ellipse fill="lightgrey" stroke="black" cx="996" cy="-234" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="996" y="-229.8" font-family="Times,serif" font-size="14.00">R</text>
 </g>
 <!-- APL360&#45;&gt;R -->
-<g id="edge30" class="edge"><title>APL360-&gt;R</title>
-<path fill="none" stroke="black" d="M786.741,-256.18C834.466,-235.056 918.248,-197.972 963.639,-177.881"></path>
-<polygon fill="black" stroke="black" points="965.254,-180.994 972.982,-173.746 962.421,-174.593 965.254,-180.994"></polygon>
+<g id="edge32" class="edge"><title>APL360-&gt;R</title>
+<path fill="none" stroke="black" d="M814.789,-260.588C860.866,-253.79 921.412,-244.857 959.267,-239.272"></path>
+<polygon fill="black" stroke="black" points="959.93,-242.712 969.312,-237.79 958.908,-235.787 959.93,-242.712"></polygon>
 </g>
 <!-- Nial -->
-<g id="node36" class="node"><title>Nial</title>
-<ellipse fill="lightgrey" stroke="black" cx="1229" cy="-91" rx="27.8248" ry="18"></ellipse>
-<text text-anchor="middle" x="1229" y="-86.8" font-family="Times,serif" font-size="14.00">Nial</text>
+<g id="node38" class="node"><title>Nial</title>
+<ellipse fill="lightgrey" stroke="black" cx="1229" cy="-307" rx="27.8248" ry="18"></ellipse>
+<text text-anchor="middle" x="1229" y="-302.8" font-family="Times,serif" font-size="14.00">Nial</text>
 </g>
 <!-- APL360&#45;&gt;Nial -->
-<g id="edge32" class="edge"><title>APL360-&gt;Nial</title>
-<path fill="none" stroke="black" d="M767.087,-254.129C796.654,-222.597 863.13,-157.625 934,-128 1020.91,-91.6706 1133.9,-88.3818 1191.2,-89.4546"></path>
-<polygon fill="black" stroke="black" points="1191.15,-92.9543 1201.23,-89.6986 1191.32,-85.9564 1191.15,-92.9543"></polygon>
+<g id="edge34" class="edge"><title>APL360-&gt;Nial</title>
+<path fill="none" stroke="black" d="M822.412,-275.539C925.424,-283.53 1112.01,-298.003 1191.04,-304.133"></path>
+<polygon fill="black" stroke="black" points="1191.22,-307.657 1201.46,-304.941 1191.76,-300.678 1191.22,-307.657"></polygon>
 </g>
 <!-- SOL -->
-<g id="node38" class="node"><title>SOL</title>
+<g id="node40" class="node"><title>SOL</title>
 <ellipse fill="lightgrey" stroke="black" cx="996" cy="-18" rx="29.0529" ry="18"></ellipse>
 <text text-anchor="middle" x="996" y="-13.8" font-family="Times,serif" font-size="14.00">SOL</text>
 </g>
 <!-- APL360&#45;&gt;SOL -->
-<g id="edge34" class="edge"><title>APL360-&gt;SOL</title>
-<path fill="none" stroke="black" d="M764.537,-254.062C793.398,-216.411 864.07,-127.317 934,-63 944.165,-53.6507 956.247,-44.4044 966.967,-36.7478"></path>
-<polygon fill="black" stroke="black" points="969.024,-39.5796 975.208,-30.9766 965.009,-33.8456 969.024,-39.5796"></polygon>
+<g id="edge36" class="edge"><title>APL360-&gt;SOL</title>
+<path fill="none" stroke="black" d="M763.056,-252.021C790.123,-212.597 859.227,-117.049 934,-54 942.925,-46.4743 953.62,-39.5794 963.544,-33.8823"></path>
+<polygon fill="black" stroke="black" points="965.311,-36.905 972.369,-29.0034 961.924,-30.7789 965.311,-36.905"></polygon>
 </g>
 <!-- A+ -->
 <g id="node4" class="node"><title>A+</title>
-<ellipse fill="lightgrey" stroke="black" cx="1437" cy="-782" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1437" y="-777.8" font-family="Times,serif" font-size="14.00">A+</text>
+<ellipse fill="lightgrey" stroke="black" cx="1437" cy="-965" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="1437" y="-960.8" font-family="Times,serif" font-size="14.00">A+</text>
 </g>
 <!-- BQN -->
 <g id="node6" class="node"><title>BQN</title>
-<ellipse fill="lightgrey" stroke="black" cx="2388" cy="-1016" rx="31.339" ry="18"></ellipse>
-<text text-anchor="middle" x="2388" y="-1011.8" font-family="Times,serif" font-size="14.00">BQN</text>
+<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1110" rx="31.339" ry="18"></ellipse>
+<text text-anchor="middle" x="2188" y="-1105.8" font-family="Times,serif" font-size="14.00">BQN</text>
 </g>
 <!-- A+&#45;&gt;BQN -->
 <g id="edge4" class="edge"><title>A+-&gt;BQN</title>
-<path fill="none" stroke="black" d="M1463.91,-779.638C1546.83,-772.896 1812.45,-757.665 2020,-817 2157.54,-856.322 2301.14,-953.296 2359.71,-995.654"></path>
-<polygon fill="black" stroke="black" points="2357.9,-998.667 2368.04,-1001.73 2362.03,-993.011 2357.9,-998.667"></polygon>
+<path fill="none" stroke="black" d="M1463.82,-962.119C1547.05,-953.772 1814.73,-934.255 2020,-1002 2075.98,-1020.48 2131.58,-1062.35 2162.4,-1088.19"></path>
+<polygon fill="black" stroke="black" points="2160.17,-1090.89 2170.05,-1094.71 2164.7,-1085.56 2160.17,-1090.89"></polygon>
 </g>
 <!-- K -->
 <g id="node8" class="node"><title>K</title>
-<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-561" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1648" y="-556.8" font-family="Times,serif" font-size="14.00">K</text>
+<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-750" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="1648" y="-745.8" font-family="Times,serif" font-size="14.00">K</text>
 </g>
 <!-- A+&#45;&gt;K -->
 <g id="edge6" class="edge"><title>A+-&gt;K</title>
-<path fill="none" stroke="black" d="M1452.37,-766.81C1488.47,-728.631 1583.16,-628.507 1625.73,-583.491"></path>
-<polygon fill="black" stroke="black" points="1628.48,-585.675 1632.81,-576.004 1623.4,-580.865 1628.48,-585.675"></polygon>
+<path fill="none" stroke="black" d="M1452.7,-949.882C1488.98,-912.552 1582.97,-815.87 1625.51,-772.103"></path>
+<polygon fill="black" stroke="black" points="1628.14,-774.426 1632.6,-764.816 1623.12,-769.547 1628.14,-774.426"></polygon>
+</g>
+<!-- Dyalog APL Vision -->
+<g id="node44" class="node"><title>Dyalog APL Vision</title>
+<ellipse fill="lightgrey" stroke="black" cx="2445" cy="-1584" rx="88.0654" ry="18"></ellipse>
+<text text-anchor="middle" x="2445" y="-1579.8" font-family="Times,serif" font-size="14.00">Dyalog APL Vision</text>
+</g>
+<!-- BQN&#45;&gt;Dyalog APL Vision -->
+<g id="edge40" class="edge"><title>BQN-&gt;Dyalog APL Vision</title>
+<path fill="none" stroke="black" d="M2198.23,-1127.15C2236.48,-1198.26 2382.81,-1470.26 2429.55,-1557.15"></path>
+<polygon fill="black" stroke="black" points="2426.56,-1558.97 2434.38,-1566.12 2432.73,-1555.65 2426.56,-1558.97"></polygon>
+</g>
+<!-- Goal -->
+<g id="node46" class="node"><title>Goal</title>
+<ellipse fill="lightgrey" stroke="black" cx="2445" cy="-783" rx="29.6147" ry="18"></ellipse>
+<text text-anchor="middle" x="2445" y="-778.8" font-family="Times,serif" font-size="14.00">Goal</text>
+</g>
+<!-- BQN&#45;&gt;Goal -->
+<g id="edge42" class="edge"><title>BQN-&gt;Goal</title>
+<path fill="none" stroke="black" d="M2201.65,-1093.78C2243.11,-1040.61 2375.13,-871.317 2424.83,-807.583"></path>
+<polygon fill="black" stroke="black" points="2427.89,-809.352 2431.28,-799.314 2422.37,-805.047 2427.89,-809.352"></polygon>
+</g>
+<!-- KAP -->
+<g id="node48" class="node"><title>KAP</title>
+<ellipse fill="lightgrey" stroke="black" cx="2445" cy="-1292" rx="30.1958" ry="18"></ellipse>
+<text text-anchor="middle" x="2445" y="-1287.8" font-family="Times,serif" font-size="14.00">KAP</text>
+</g>
+<!-- BQN&#45;&gt;KAP -->
+<g id="edge44" class="edge"><title>BQN-&gt;KAP</title>
+<path fill="none" stroke="black" d="M2208.59,-1123.98C2253.57,-1156.08 2364.37,-1235.16 2416.3,-1272.23"></path>
+<polygon fill="black" stroke="black" points="2414.52,-1275.26 2424.7,-1278.22 2418.59,-1269.56 2414.52,-1275.26"></polygon>
+</g>
+<!-- Uiua -->
+<g id="node50" class="node"><title>Uiua</title>
+<ellipse fill="lightgrey" stroke="black" cx="2445" cy="-1110" rx="29.6147" ry="18"></ellipse>
+<text text-anchor="middle" x="2445" y="-1105.8" font-family="Times,serif" font-size="14.00">Uiua</text>
+</g>
+<!-- BQN&#45;&gt;Uiua -->
+<g id="edge46" class="edge"><title>BQN-&gt;Uiua</title>
+<path fill="none" stroke="black" d="M2219.51,-1110C2265.79,-1110 2353.74,-1110 2404.74,-1110"></path>
+<polygon fill="black" stroke="black" points="2405.03,-1113.5 2415.03,-1110 2405.03,-1106.5 2405.03,-1113.5"></polygon>
 </g>
 <!-- K&#45;&gt;CoSy -->
-<g id="edge82" class="edge"><title>K-&gt;CoSy</title>
-<path fill="none" stroke="black" d="M1667.5,-547.962C1698.43,-526.57 1763.03,-483.55 1822,-455 1841.5,-445.56 1864.15,-437.088 1882.76,-430.737"></path>
-<polygon fill="black" stroke="black" points="1883.99,-434.017 1892.36,-427.525 1881.77,-427.378 1883.99,-434.017"></polygon>
+<g id="edge94" class="edge"><title>K-&gt;CoSy</title>
+<path fill="none" stroke="black" d="M1656.86,-732.861C1677.8,-688.848 1739.06,-570.44 1822,-501 1839.68,-486.195 1863.04,-475.218 1882.52,-467.814"></path>
+<polygon fill="black" stroke="black" points="1883.81,-471.07 1892.01,-464.366 1881.42,-464.49 1883.81,-471.07"></polygon>
+</g>
+<!-- K&#45;&gt;Goal -->
+<g id="edge98" class="edge"><title>K-&gt;Goal</title>
+<path fill="none" stroke="black" d="M1664.62,-735.603C1693.22,-710.335 1757.07,-658.895 1822,-640 2046.77,-574.591 2324.18,-714.541 2414.26,-765.44"></path>
+<polygon fill="black" stroke="black" points="2412.69,-768.574 2423.11,-770.496 2416.16,-762.496 2412.69,-768.574"></polygon>
 </g>
 <!-- April -->
-<g id="node48" class="node"><title>April</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-925" rx="31.3371" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-920.8" font-family="Times,serif" font-size="14.00">April</text>
+<g id="node56" class="node"><title>April</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1038" rx="31.3371" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1033.8" font-family="Times,serif" font-size="14.00">April</text>
 </g>
 <!-- K&#45;&gt;April -->
-<g id="edge80" class="edge"><title>K-&gt;April</title>
-<path fill="none" stroke="black" d="M1653.47,-578.773C1668.05,-633.169 1719.28,-799.133 1822,-889 1838.5,-903.431 1861.27,-912.262 1880.72,-917.562"></path>
-<polygon fill="black" stroke="black" points="1879.98,-920.986 1890.53,-920.023 1881.68,-914.196 1879.98,-920.986"></polygon>
-</g>
-<!-- RAD -->
-<g id="node56" class="node"><title>RAD</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-853" rx="31.339" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-848.8" font-family="Times,serif" font-size="14.00">RAD</text>
-</g>
-<!-- K&#45;&gt;RAD -->
-<g id="edge90" class="edge"><title>K-&gt;RAD</title>
-<path fill="none" stroke="black" d="M1663.19,-576.288C1707.71,-624.256 1844.84,-772.012 1898.32,-829.641"></path>
-<polygon fill="black" stroke="black" points="1895.93,-832.206 1905.29,-837.155 1901.06,-827.444 1895.93,-832.206"></polygon>
+<g id="edge92" class="edge"><title>K-&gt;April</title>
+<path fill="none" stroke="black" d="M1663.19,-765.079C1707.71,-812.389 1844.84,-958.121 1898.32,-1014.96"></path>
+<polygon fill="black" stroke="black" points="1895.89,-1017.49 1905.29,-1022.37 1900.99,-1012.69 1895.89,-1017.49"></polygon>
 </g>
 <!-- I -->
-<g id="node63" class="node"><title>I</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-563" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-558.8" font-family="Times,serif" font-size="14.00">I</text>
+<g id="node72" class="node"><title>I</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-676" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-671.8" font-family="Times,serif" font-size="14.00">I</text>
 </g>
 <!-- K&#45;&gt;I -->
-<g id="edge86" class="edge"><title>K-&gt;I</title>
-<path fill="none" stroke="black" d="M1675.48,-561.195C1724.28,-561.556 1828.45,-562.324 1883.76,-562.733"></path>
-<polygon fill="black" stroke="black" points="1883.79,-566.233 1893.81,-562.807 1883.84,-559.233 1883.79,-566.233"></polygon>
+<g id="edge100" class="edge"><title>K-&gt;I</title>
+<path fill="none" stroke="black" d="M1673.53,-743.302C1722.1,-730.039 1830.61,-700.41 1886.02,-685.278"></path>
+<polygon fill="black" stroke="black" points="1887,-688.64 1895.72,-682.629 1885.15,-681.887 1887,-688.64"></polygon>
 </g>
 <!-- Glee -->
-<g id="node68" class="node"><title>Glee</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-635" rx="29.0318" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-630.8" font-family="Times,serif" font-size="14.00">Glee</text>
+<g id="node77" class="node"><title>Glee</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-892" rx="29.0318" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-887.8" font-family="Times,serif" font-size="14.00">Glee</text>
 </g>
 <!-- K&#45;&gt;Glee -->
-<g id="edge84" class="edge"><title>K-&gt;Glee</title>
-<path fill="none" stroke="black" d="M1673.53,-567.698C1721.49,-580.793 1827.88,-609.845 1883.9,-625.142"></path>
-<polygon fill="black" stroke="black" points="1883.18,-628.573 1893.75,-627.831 1885.02,-621.82 1883.18,-628.573"></polygon>
+<g id="edge96" class="edge"><title>K-&gt;Glee</title>
+<path fill="none" stroke="black" d="M1667.5,-763.038C1698.43,-784.43 1763.03,-827.45 1822,-856 1842.19,-865.775 1865.76,-874.512 1884.73,-880.931"></path>
+<polygon fill="black" stroke="black" points="1883.87,-884.333 1894.46,-884.159 1886.07,-877.689 1883.87,-884.333"></polygon>
 </g>
 <!-- SaC -->
-<g id="node72" class="node"><title>SaC</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-273" rx="27.2641" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-268.8" font-family="Times,serif" font-size="14.00">SaC</text>
+<g id="node81" class="node"><title>SaC</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-384" rx="27.2641" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-379.8" font-family="Times,serif" font-size="14.00">SaC</text>
 </g>
 <!-- K&#45;&gt;SaC -->
-<g id="edge92" class="edge"><title>K-&gt;SaC</title>
-<path fill="none" stroke="black" d="M1663.19,-545.921C1707.81,-498.5 1845.48,-352.197 1898.69,-295.642"></path>
-<polygon fill="black" stroke="black" points="1901.32,-297.958 1905.62,-288.277 1896.22,-293.161 1901.32,-297.958"></polygon>
+<g id="edge106" class="edge"><title>K-&gt;SaC</title>
+<path fill="none" stroke="black" d="M1653.44,-732.119C1667.92,-677.395 1718.9,-510.425 1822,-420 1839.6,-404.561 1864.39,-395.537 1884.64,-390.385"></path>
+<polygon fill="black" stroke="black" points="1885.51,-393.775 1894.45,-388.093 1883.92,-386.959 1885.51,-393.775"></polygon>
+</g>
+<!-- Klong -->
+<g id="node88" class="node"><title>Klong</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-748" rx="35.3548" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-743.8" font-family="Times,serif" font-size="14.00">Klong</text>
+</g>
+<!-- K&#45;&gt;Klong -->
+<g id="edge102" class="edge"><title>K-&gt;Klong</title>
+<path fill="none" stroke="black" d="M1675.48,-749.805C1721.99,-749.461 1818.83,-748.747 1875.69,-748.327"></path>
+<polygon fill="black" stroke="black" points="1875.85,-751.826 1885.82,-748.252 1875.8,-744.826 1875.85,-751.826"></polygon>
 </g>
 <!-- Q -->
-<g id="node78" class="node"><title>Q</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-491" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-486.8" font-family="Times,serif" font-size="14.00">Q</text>
+<g id="node90" class="node"><title>Q</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-820" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-815.8" font-family="Times,serif" font-size="14.00">Q</text>
 </g>
 <!-- K&#45;&gt;Q -->
-<g id="edge88" class="edge"><title>K-&gt;Q</title>
-<path fill="none" stroke="black" d="M1673.53,-554.665C1721.98,-542.15 1830.06,-514.232 1885.6,-499.886"></path>
-<polygon fill="black" stroke="black" points="1886.53,-503.261 1895.33,-497.372 1884.78,-496.484 1886.53,-503.261"></polygon>
+<g id="edge104" class="edge"><title>K-&gt;Q</title>
+<path fill="none" stroke="black" d="M1673.53,-756.335C1721.98,-768.85 1830.06,-796.768 1885.6,-811.114"></path>
+<polygon fill="black" stroke="black" points="1884.78,-814.516 1895.33,-813.628 1886.53,-807.739 1884.78,-814.516"></polygon>
 </g>
 <!-- APL+ -->
 <g id="node9" class="node"><title>APL+</title>
-<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1215" rx="34.9437" ry="18"></ellipse>
-<text text-anchor="middle" x="1648" y="-1210.8" font-family="Times,serif" font-size="14.00">APL+</text>
+<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1657" rx="34.9437" ry="18"></ellipse>
+<text text-anchor="middle" x="1648" y="-1652.8" font-family="Times,serif" font-size="14.00">APL+</text>
 </g>
 <!-- APL64 -->
 <g id="node11" class="node"><title>APL64</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1583" rx="38.8652" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-1578.8" font-family="Times,serif" font-size="14.00">APL64</text>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1840" rx="38.8652" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1835.8" font-family="Times,serif" font-size="14.00">APL64</text>
 </g>
 <!-- APL+&#45;&gt;APL64 -->
 <g id="edge8" class="edge"><title>APL+-&gt;APL64</title>
-<path fill="none" stroke="black" d="M1677,-1225.17C1689.77,-1231.02 1704.19,-1239.53 1714,-1251 1805.01,-1357.43 1723.09,-1447.87 1822,-1547 1835.93,-1560.97 1855.74,-1569.56 1873.9,-1574.83"></path>
-<polygon fill="black" stroke="black" points="1873.21,-1578.27 1883.77,-1577.43 1874.99,-1571.5 1873.21,-1578.27"></polygon>
+<path fill="none" stroke="black" d="M1674.28,-1669.11C1686.69,-1675.52 1701.61,-1683.94 1714,-1693 1767.3,-1731.97 1767.27,-1758.07 1822,-1795 1839.97,-1807.13 1861.74,-1817.49 1880.19,-1825.21"></path>
+<polygon fill="black" stroke="black" points="1878.92,-1828.47 1889.5,-1829 1881.56,-1821.98 1878.92,-1828.47"></polygon>
 </g>
 <!-- APL Machine -->
 <g id="node14" class="node"><title>APL Machine</title>
-<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1287" rx="65.4493" ry="18"></ellipse>
-<text text-anchor="middle" x="1648" y="-1282.8" font-family="Times,serif" font-size="14.00">APL Machine</text>
+<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1729" rx="65.4493" ry="18"></ellipse>
+<text text-anchor="middle" x="1648" y="-1724.8" font-family="Times,serif" font-size="14.00">APL Machine</text>
 </g>
 <!-- APL PLUS&#45;&gt;APL Machine -->
 <g id="edge10" class="edge"><title>APL PLUS-&gt;APL Machine</title>
-<path fill="none" stroke="black" d="M1036.93,-1115.22C1109.17,-1137.23 1266.5,-1184.73 1400,-1222 1464.66,-1240.05 1539.24,-1259.49 1589.38,-1272.35"></path>
-<polygon fill="black" stroke="black" points="1588.52,-1275.75 1599.07,-1274.84 1590.25,-1268.97 1588.52,-1275.75"></polygon>
+<path fill="none" stroke="black" d="M1022.38,-1380.99C1055.36,-1401.71 1114.78,-1438.88 1166,-1470 1269.38,-1532.81 1293.5,-1551.63 1400,-1609 1470.19,-1646.81 1554.07,-1686.43 1603.81,-1709.36"></path>
+<polygon fill="black" stroke="black" points="1602.44,-1712.58 1612.99,-1713.58 1605.37,-1706.22 1602.44,-1712.58"></polygon>
 </g>
 <!-- NARS -->
 <g id="node16" class="node"><title>NARS</title>
-<ellipse fill="lightgrey" stroke="black" cx="1437" cy="-1140" rx="36.5767" ry="18"></ellipse>
-<text text-anchor="middle" x="1437" y="-1135.8" font-family="Times,serif" font-size="14.00">NARS</text>
+<ellipse fill="lightgrey" stroke="black" cx="1437" cy="-1511" rx="36.5767" ry="18"></ellipse>
+<text text-anchor="middle" x="1437" y="-1506.8" font-family="Times,serif" font-size="14.00">NARS</text>
 </g>
 <!-- APL PLUS&#45;&gt;NARS -->
 <g id="edge12" class="edge"><title>APL PLUS-&gt;NARS</title>
-<path fill="none" stroke="black" d="M1049.95,-1107.46C1136.99,-1114.8 1308.79,-1129.28 1390.62,-1136.17"></path>
-<polygon fill="black" stroke="black" points="1390.35,-1139.66 1400.61,-1137.02 1390.94,-1132.69 1390.35,-1139.66"></polygon>
+<path fill="none" stroke="black" d="M1035.19,-1377.7C1117.88,-1405.2 1312.77,-1470.02 1396.57,-1497.89"></path>
+<polygon fill="black" stroke="black" points="1395.63,-1501.26 1406.22,-1501.1 1397.84,-1494.62 1395.63,-1501.26"></polygon>
 </g>
 <!-- SHARP APL -->
 <g id="node18" class="node"><title>SHARP APL</title>
-<ellipse fill="lightgrey" stroke="black" cx="1229" cy="-1067" rx="62.6192" ry="18"></ellipse>
-<text text-anchor="middle" x="1229" y="-1062.8" font-family="Times,serif" font-size="14.00">SHARP APL</text>
+<ellipse fill="lightgrey" stroke="black" cx="1229" cy="-1329" rx="62.6192" ry="18"></ellipse>
+<text text-anchor="middle" x="1229" y="-1324.8" font-family="Times,serif" font-size="14.00">SHARP APL</text>
 </g>
 <!-- APL PLUS&#45;&gt;SHARP APL -->
 <g id="edge14" class="edge"><title>APL PLUS-&gt;SHARP APL</title>
-<path fill="none" stroke="black" d="M1046.27,-1095.32C1080.43,-1090 1126.25,-1082.86 1163.34,-1077.08"></path>
-<polygon fill="black" stroke="black" points="1164.21,-1080.48 1173.55,-1075.49 1163.13,-1073.57 1164.21,-1080.48"></polygon>
+<path fill="none" stroke="black" d="M1046.27,-1357.32C1080.43,-1352 1126.25,-1344.86 1163.34,-1339.08"></path>
+<polygon fill="black" stroke="black" points="1164.21,-1342.48 1173.55,-1337.49 1163.13,-1335.57 1164.21,-1342.48"></polygon>
 </g>
 <!-- NARS&#45;&gt;APL+ -->
-<g id="edge98" class="edge"><title>NARS-&gt;APL+</title>
-<path fill="none" stroke="black" d="M1467.06,-1150.43C1504.16,-1163.74 1568.41,-1186.8 1609.26,-1201.46"></path>
-<polygon fill="black" stroke="black" points="1608.26,-1204.82 1618.85,-1204.9 1610.62,-1198.23 1608.26,-1204.82"></polygon>
+<g id="edge114" class="edge"><title>NARS-&gt;APL+</title>
+<path fill="none" stroke="black" d="M1458.96,-1525.76C1486.96,-1545.47 1538.16,-1581.45 1582,-1612 1593.84,-1620.25 1606.93,-1629.32 1618.24,-1637.14"></path>
+<polygon fill="black" stroke="black" points="1616.27,-1640.04 1626.49,-1642.84 1620.25,-1634.28 1616.27,-1640.04"></polygon>
 </g>
 <!-- NARS&#45;&gt;APL Machine -->
-<g id="edge102" class="edge"><title>NARS-&gt;APL Machine</title>
-<path fill="none" stroke="black" d="M1456.43,-1155.67C1483.19,-1178.07 1534.78,-1219.98 1582,-1251 1589.92,-1256.2 1598.64,-1261.38 1607.06,-1266.12"></path>
-<polygon fill="black" stroke="black" points="1605.57,-1269.3 1616.02,-1271.08 1608.96,-1263.18 1605.57,-1269.3"></polygon>
+<g id="edge112" class="edge"><title>NARS-&gt;APL Machine</title>
+<path fill="none" stroke="black" d="M1448.26,-1528.15C1469.63,-1562.77 1521.94,-1642.04 1582,-1693 1588.79,-1698.76 1596.64,-1704.03 1604.49,-1708.66"></path>
+<polygon fill="black" stroke="black" points="1602.86,-1711.76 1613.3,-1713.6 1606.29,-1705.65 1602.86,-1711.76"></polygon>
 </g>
 <!-- APL2 -->
 <g id="node19" class="node"><title>APL2</title>
-<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1143" rx="34.2084" ry="18"></ellipse>
-<text text-anchor="middle" x="1648" y="-1138.8" font-family="Times,serif" font-size="14.00">APL2</text>
+<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1511" rx="34.2084" ry="18"></ellipse>
+<text text-anchor="middle" x="1648" y="-1506.8" font-family="Times,serif" font-size="14.00">APL2</text>
 </g>
 <!-- NARS&#45;&gt;APL2 -->
-<g id="edge100" class="edge"><title>NARS-&gt;APL2</title>
-<path fill="none" stroke="black" d="M1473.93,-1140.52C1509.77,-1141.03 1564.89,-1141.82 1603.26,-1142.37"></path>
-<polygon fill="black" stroke="black" points="1603.56,-1145.88 1613.61,-1142.52 1603.66,-1138.88 1603.56,-1145.88"></polygon>
-</g>
-<!-- Dyalog APL -->
-<g id="node43" class="node"><title>Dyalog APL</title>
-<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1071" rx="60.2342" ry="18"></ellipse>
-<text text-anchor="middle" x="1648" y="-1066.8" font-family="Times,serif" font-size="14.00">Dyalog APL</text>
-</g>
-<!-- NARS&#45;&gt;Dyalog APL -->
-<g id="edge104" class="edge"><title>NARS-&gt;Dyalog APL</title>
-<path fill="none" stroke="black" d="M1467.94,-1130.11C1501.63,-1118.99 1556.87,-1100.76 1597.1,-1087.48"></path>
-<polygon fill="black" stroke="black" points="1598.32,-1090.76 1606.72,-1084.3 1596.13,-1084.11 1598.32,-1090.76"></polygon>
-</g>
-<!-- NARS&#45;&gt;Glee -->
-<g id="edge106" class="edge"><title>NARS-&gt;Glee</title>
-<path fill="none" stroke="black" d="M1447.71,-1122.28C1486.02,-1053.98 1633.79,-804.908 1822,-671 1840.36,-657.936 1864,-649.07 1883.47,-643.406"></path>
-<polygon fill="black" stroke="black" points="1884.49,-646.753 1893.21,-640.731 1882.64,-640.003 1884.49,-646.753"></polygon>
-</g>
-<!-- SHARP APL&#45;&gt;A+ -->
-<g id="edge116" class="edge"><title>SHARP APL-&gt;A+</title>
-<path fill="none" stroke="black" d="M1242.89,-1049.17C1278.42,-1000.01 1377.85,-862.453 1418.42,-806.319"></path>
-<polygon fill="black" stroke="black" points="1421.39,-808.19 1424.41,-798.035 1415.72,-804.089 1421.39,-808.19"></polygon>
-</g>
-<!-- SHARP APL&#45;&gt;APL Machine -->
-<g id="edge118" class="edge"><title>SHARP APL-&gt;APL Machine</title>
-<path fill="none" stroke="black" d="M1253.53,-1083.67C1285.73,-1106.12 1345.74,-1146.62 1400,-1176 1467.77,-1212.7 1550.04,-1247.91 1600.44,-1268.5"></path>
-<polygon fill="black" stroke="black" points="1599.19,-1271.77 1609.77,-1272.29 1601.83,-1265.28 1599.19,-1271.77"></polygon>
-</g>
-<!-- SHARP APL&#45;&gt;J -->
-<g id="edge122" class="edge"><title>SHARP APL-&gt;J</title>
-<path fill="none" stroke="black" d="M1237.33,-1048.99C1268.28,-972.97 1388.34,-678.073 1425.18,-587.566"></path>
-<polygon fill="black" stroke="black" points="1428.44,-588.853 1428.97,-578.271 1421.96,-586.213 1428.44,-588.853"></polygon>
-</g>
-<!-- SHARP APL&#45;&gt;Dyalog APL -->
-<g id="edge120" class="edge"><title>SHARP APL-&gt;Dyalog APL</title>
-<path fill="none" stroke="black" d="M1291.98,-1067.59C1368.3,-1068.33 1497.59,-1069.57 1577.29,-1070.33"></path>
-<polygon fill="black" stroke="black" points="1577.69,-1073.84 1587.72,-1070.43 1577.76,-1066.84 1577.69,-1073.84"></polygon>
-</g>
-<!-- GNU APL -->
-<g id="node21" class="node"><title>GNU APL</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1511" rx="52.7079" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-1506.8" font-family="Times,serif" font-size="14.00">GNU APL</text>
-</g>
-<!-- APL2&#45;&gt;GNU APL -->
-<g id="edge16" class="edge"><title>APL2-&gt;GNU APL</title>
-<path fill="none" stroke="black" d="M1676.68,-1153.02C1689.52,-1158.88 1704.11,-1167.43 1714,-1179 1805.01,-1285.43 1723.09,-1375.87 1822,-1475 1833.45,-1486.47 1848.85,-1494.32 1864.06,-1499.68"></path>
-<polygon fill="black" stroke="black" points="1863.38,-1503.14 1873.97,-1502.86 1865.52,-1496.47 1863.38,-1503.14"></polygon>
+<g id="edge116" class="edge"><title>NARS-&gt;APL2</title>
+<path fill="none" stroke="black" d="M1473.93,-1511C1509.77,-1511 1564.89,-1511 1603.26,-1511"></path>
+<polygon fill="black" stroke="black" points="1603.61,-1514.5 1613.61,-1511 1603.61,-1507.5 1603.61,-1514.5"></polygon>
 </g>
 <!-- NARS2000 -->
-<g id="node23" class="node"><title>NARS2000</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1439" rx="56.2034" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-1434.8" font-family="Times,serif" font-size="14.00">NARS2000</text>
+<g id="node25" class="node"><title>NARS2000</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1694" rx="56.2034" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1689.8" font-family="Times,serif" font-size="14.00">NARS2000</text>
+</g>
+<!-- NARS&#45;&gt;NARS2000 -->
+<g id="edge122" class="edge"><title>NARS-&gt;NARS2000</title>
+<path fill="none" stroke="black" d="M1466.71,-1521.9C1547.34,-1552.51 1776.35,-1639.46 1874.47,-1676.71"></path>
+<polygon fill="black" stroke="black" points="1873.51,-1680.09 1884.1,-1680.37 1875.99,-1673.55 1873.51,-1680.09"></polygon>
+</g>
+<!-- Dyalog APL -->
+<g id="node53" class="node"><title>Dyalog APL</title>
+<ellipse fill="lightgrey" stroke="black" cx="1648" cy="-1329" rx="60.2342" ry="18"></ellipse>
+<text text-anchor="middle" x="1648" y="-1324.8" font-family="Times,serif" font-size="14.00">Dyalog APL</text>
+</g>
+<!-- NARS&#45;&gt;Dyalog APL -->
+<g id="edge118" class="edge"><title>NARS-&gt;Dyalog APL</title>
+<path fill="none" stroke="black" d="M1455.82,-1495.48C1492.43,-1463.6 1576.33,-1390.54 1619.79,-1352.69"></path>
+<polygon fill="black" stroke="black" points="1622.17,-1355.26 1627.41,-1346.06 1617.57,-1349.98 1622.17,-1355.26"></polygon>
+</g>
+<!-- NARS&#45;&gt;Glee -->
+<g id="edge120" class="edge"><title>NARS-&gt;Glee</title>
+<path fill="none" stroke="black" d="M1448.6,-1493.62C1471.66,-1456.13 1528.6,-1365.21 1582,-1293 1681.67,-1158.2 1712.89,-1129.28 1822,-1002 1848.09,-971.562 1878.97,-937.158 1899,-915.056"></path>
+<polygon fill="black" stroke="black" points="1901.73,-917.258 1905.85,-907.5 1896.54,-912.554 1901.73,-917.258"></polygon>
+</g>
+<!-- SHARP APL&#45;&gt;A+ -->
+<g id="edge132" class="edge"><title>SHARP APL-&gt;A+</title>
+<path fill="none" stroke="black" d="M1240.08,-1311.2C1273.64,-1251.9 1381.74,-1060.88 1421.31,-990.959"></path>
+<polygon fill="black" stroke="black" points="1424.54,-992.349 1426.42,-981.922 1418.45,-988.901 1424.54,-992.349"></polygon>
+</g>
+<!-- SHARP APL&#45;&gt;APL Machine -->
+<g id="edge134" class="edge"><title>SHARP APL-&gt;APL Machine</title>
+<path fill="none" stroke="black" d="M1241.75,-1346.79C1267.74,-1385.46 1333.1,-1479.17 1400,-1547 1472.82,-1620.83 1495.89,-1635.23 1582,-1693 1589.87,-1698.28 1598.57,-1703.49 1606.98,-1708.24"></path>
+<polygon fill="black" stroke="black" points="1605.49,-1711.42 1615.94,-1713.19 1608.88,-1705.29 1605.49,-1711.42"></polygon>
+</g>
+<!-- SHARP APL&#45;&gt;J -->
+<g id="edge138" class="edge"><title>SHARP APL-&gt;J</title>
+<path fill="none" stroke="black" d="M1235.4,-1310.93C1263.6,-1216.62 1393.82,-781.075 1427.85,-667.268"></path>
+<polygon fill="black" stroke="black" points="1431.24,-668.154 1430.75,-657.57 1424.53,-666.148 1431.24,-668.154"></polygon>
+</g>
+<!-- SHARP APL&#45;&gt;Dyalog APL -->
+<g id="edge136" class="edge"><title>SHARP APL-&gt;Dyalog APL</title>
+<path fill="none" stroke="black" d="M1291.98,-1329C1368.3,-1329 1497.59,-1329 1577.29,-1329"></path>
+<polygon fill="black" stroke="black" points="1577.72,-1332.5 1587.72,-1329 1577.72,-1325.5 1577.72,-1332.5"></polygon>
+</g>
+<!-- ELI -->
+<g id="node21" class="node"><title>ELI</title>
+<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1511" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="2188" y="-1506.8" font-family="Times,serif" font-size="14.00">ELI</text>
+</g>
+<!-- APL2&#45;&gt;ELI -->
+<g id="edge16" class="edge"><title>APL2-&gt;ELI</title>
+<path fill="none" stroke="black" d="M1659.74,-1528.2C1689.96,-1575.93 1776.43,-1707.93 1822,-1730 1901.2,-1768.36 1941.13,-1769.04 2020,-1730 2102.18,-1689.32 2154.96,-1586.68 2176.26,-1537.75"></path>
+<polygon fill="black" stroke="black" points="2179.53,-1539.01 2180.22,-1528.43 2173.09,-1536.27 2179.53,-1539.01"></polygon>
+</g>
+<!-- GNU APL -->
+<g id="node23" class="node"><title>GNU APL</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1548" rx="52.7079" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1543.8" font-family="Times,serif" font-size="14.00">GNU APL</text>
+</g>
+<!-- APL2&#45;&gt;GNU APL -->
+<g id="edge18" class="edge"><title>APL2-&gt;GNU APL</title>
+<path fill="none" stroke="black" d="M1681.15,-1515.39C1725.63,-1521.46 1806.69,-1532.53 1861.93,-1540.07"></path>
+<polygon fill="black" stroke="black" points="1861.54,-1543.55 1871.92,-1541.44 1862.49,-1536.62 1861.54,-1543.55"></polygon>
 </g>
 <!-- APL2&#45;&gt;NARS2000 -->
-<g id="edge18" class="edge"><title>APL2-&gt;NARS2000</title>
-<path fill="none" stroke="black" d="M1676.11,-1153.53C1688.82,-1159.52 1703.46,-1168.02 1714,-1179 1788.08,-1256.12 1745.07,-1319.72 1822,-1394 1835.17,-1406.72 1852.58,-1416.29 1869.07,-1423.26"></path>
-<polygon fill="black" stroke="black" points="1868.05,-1426.62 1878.64,-1427.06 1870.64,-1420.11 1868.05,-1426.62"></polygon>
-</g>
-<!-- KAP -->
-<g id="node45" class="node"><title>KAP</title>
-<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1438" rx="30.1958" ry="18"></ellipse>
-<text text-anchor="middle" x="2188" y="-1433.8" font-family="Times,serif" font-size="14.00">KAP</text>
+<g id="edge20" class="edge"><title>APL2-&gt;NARS2000</title>
+<path fill="none" stroke="black" d="M1670.18,-1524.84C1683.09,-1533.48 1699.78,-1545 1714,-1556 1764.11,-1594.75 1768.69,-1614.78 1822,-1649 1838.35,-1659.5 1857.55,-1668.88 1874.6,-1676.32"></path>
+<polygon fill="black" stroke="black" points="1873.25,-1679.55 1883.82,-1680.26 1876,-1673.11 1873.25,-1679.55"></polygon>
 </g>
 <!-- GNU APL&#45;&gt;KAP -->
-<g id="edge64" class="edge"><title>GNU APL-&gt;KAP</title>
-<path fill="none" stroke="black" d="M1962.54,-1499.83C2013.7,-1485.74 2100.97,-1461.7 2150.27,-1448.12"></path>
-<polygon fill="black" stroke="black" points="2151.47,-1451.42 2160.18,-1445.39 2149.61,-1444.67 2151.47,-1451.42"></polygon>
+<g id="edge76" class="edge"><title>GNU APL-&gt;KAP</title>
+<path fill="none" stroke="black" d="M1959.11,-1535.36C1977.58,-1528.82 2000.15,-1520.45 2020,-1512 2172.67,-1446.99 2345.71,-1349.21 2414.01,-1309.6"></path>
+<polygon fill="black" stroke="black" points="2416.05,-1312.45 2422.94,-1304.4 2412.53,-1306.4 2416.05,-1312.45"></polygon>
 </g>
 <!-- J&#45;&gt;BQN -->
-<g id="edge68" class="edge"><title>J-&gt;BQN</title>
-<path fill="none" stroke="black" d="M1456.91,-548.548C1510.99,-513.783 1672.03,-416.069 1822,-383 2009.51,-341.653 2116.57,-315.014 2248,-455 2322.8,-534.666 2370.94,-884.885 2383.64,-987.594"></path>
-<polygon fill="black" stroke="black" points="2380.2,-988.308 2384.88,-997.811 2387.15,-987.46 2380.2,-988.308"></polygon>
+<g id="edge80" class="edge"><title>J-&gt;BQN</title>
+<path fill="none" stroke="black" d="M1461.06,-631.502C1545.21,-602.083 1840.26,-513.113 2020,-640 2169.44,-745.494 2185.96,-996.906 2187.17,-1081.6"></path>
+<polygon fill="black" stroke="black" points="2183.68,-1081.77 2187.26,-1091.75 2190.68,-1081.72 2183.68,-1081.77"></polygon>
 </g>
 <!-- J&#45;&gt;Dyalog APL -->
-<g id="edge70" class="edge"><title>J-&gt;Dyalog APL</title>
-<path fill="none" stroke="black" d="M1445.07,-578.261C1475.8,-653.228 1597.8,-950.946 1635.71,-1043.44"></path>
-<polygon fill="black" stroke="black" points="1632.57,-1045.03 1639.6,-1052.95 1639.05,-1042.37 1632.57,-1045.03"></polygon>
+<g id="edge82" class="edge"><title>J-&gt;Dyalog APL</title>
+<path fill="none" stroke="black" d="M1443.38,-657.724C1471.72,-751.171 1603.83,-1186.69 1638.6,-1301.3"></path>
+<polygon fill="black" stroke="black" points="1635.31,-1302.52 1641.56,-1311.08 1642.01,-1300.49 1635.31,-1302.52"></polygon>
 </g>
 <!-- Rowan -->
-<g id="node58" class="node"><title>Rowan</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-707" rx="38.2838" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-702.8" font-family="Times,serif" font-size="14.00">Rowan</text>
+<g id="node68" class="node"><title>Rowan</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-312" rx="38.2838" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-307.8" font-family="Times,serif" font-size="14.00">Rowan</text>
 </g>
 <!-- J&#45;&gt;Rowan -->
-<g id="edge76" class="edge"><title>J-&gt;Rowan</title>
-<path fill="none" stroke="black" d="M1457.78,-573.099C1484.88,-589.187 1535.51,-617.505 1582,-634 1682.97,-669.823 1807.41,-691.175 1873.54,-700.824"></path>
-<polygon fill="black" stroke="black" points="1873.24,-704.317 1883.64,-702.273 1874.24,-697.388 1873.24,-704.317"></polygon>
+<g id="edge88" class="edge"><title>J-&gt;Rowan</title>
+<path fill="none" stroke="black" d="M1449.53,-623.593C1472.14,-592.282 1525.09,-523.116 1582,-478 1677.27,-402.48 1812.47,-349.086 1879.33,-325.521"></path>
+<polygon fill="black" stroke="black" points="1880.78,-328.723 1889.07,-322.129 1878.48,-322.112 1880.78,-328.723"></polygon>
 </g>
 <!-- J&#45;&gt;I -->
-<g id="edge74" class="edge"><title>J-&gt;I</title>
-<path fill="none" stroke="black" d="M1461.61,-553.196C1489.87,-544.306 1538.78,-530.321 1582,-525 1693.08,-511.325 1824.96,-538.729 1885.94,-553.88"></path>
-<polygon fill="black" stroke="black" points="1885.25,-557.314 1895.8,-556.377 1886.96,-550.528 1885.25,-557.314"></polygon>
+<g id="edge86" class="edge"><title>J-&gt;I</title>
+<path fill="none" stroke="black" d="M1463.91,-641.936C1544.5,-647.954 1790.85,-666.354 1883.9,-673.304"></path>
+<polygon fill="black" stroke="black" points="1883.72,-676.8 1893.96,-674.055 1884.25,-669.82 1883.72,-676.8"></polygon>
 </g>
 <!-- J&#45;&gt;Glee -->
-<g id="edge72" class="edge"><title>J-&gt;Glee</title>
-<path fill="none" stroke="black" d="M1461.99,-568.041C1490.4,-576.134 1539.27,-589.292 1582,-597 1689.67,-616.422 1818.54,-627.636 1881.52,-632.349"></path>
-<polygon fill="black" stroke="black" points="1881.54,-635.86 1891.77,-633.102 1882.06,-628.879 1881.54,-635.86"></polygon>
+<g id="edge84" class="edge"><title>J-&gt;Glee</title>
+<path fill="none" stroke="black" d="M1449.56,-656.134C1471.83,-686.066 1523.66,-750.383 1582,-786 1680.7,-846.254 1816.76,-875.181 1882.05,-886.294"></path>
+<polygon fill="black" stroke="black" points="1881.84,-889.807 1892.27,-887.986 1882.98,-882.9 1881.84,-889.807"></polygon>
 </g>
 <!-- J&#45;&gt;SaC -->
-<g id="edge78" class="edge"><title>J-&gt;SaC</title>
-<path fill="none" stroke="black" d="M1447.4,-544.134C1467.55,-509.471 1518.3,-429.811 1582,-386 1679.07,-319.243 1818.72,-289.279 1883.91,-278.307"></path>
-<polygon fill="black" stroke="black" points="1884.78,-281.711 1894.09,-276.648 1883.66,-274.802 1884.78,-281.711"></polygon>
+<g id="edge90" class="edge"><title>J-&gt;SaC</title>
+<path fill="none" stroke="black" d="M1458.13,-628.649C1503.75,-602.903 1618.46,-538.034 1714,-483 1762.15,-455.262 1771.72,-443.672 1822,-420 1842.95,-410.137 1867.39,-401.154 1886.62,-394.628"></path>
+<polygon fill="black" stroke="black" points="1887.78,-397.932 1896.16,-391.448 1885.57,-391.291 1887.78,-397.932"></polygon>
 </g>
 <!-- Julia -->
-<g id="node82" class="node"><title>Julia</title>
-<ellipse fill="lightgrey" stroke="black" cx="1229" cy="-238" rx="29.0509" ry="18"></ellipse>
-<text text-anchor="middle" x="1229" y="-233.8" font-family="Times,serif" font-size="14.00">Julia</text>
+<g id="node93" class="node"><title>Julia</title>
+<ellipse fill="lightgrey" stroke="black" cx="1229" cy="-160" rx="29.0509" ry="18"></ellipse>
+<text text-anchor="middle" x="1229" y="-155.8" font-family="Times,serif" font-size="14.00">Julia</text>
 </g>
 <!-- MATLAB&#45;&gt;Julia -->
-<g id="edge94" class="edge"><title>MATLAB-&gt;Julia</title>
-<path fill="none" stroke="black" d="M1035.66,-296.284C1079.54,-282.988 1150.49,-261.488 1192.85,-248.651"></path>
-<polygon fill="black" stroke="black" points="1193.91,-251.989 1202.46,-245.739 1191.88,-245.29 1193.91,-251.989"></polygon>
+<g id="edge110" class="edge"><title>MATLAB-&gt;Julia</title>
+<path fill="none" stroke="black" d="M1047.98,-161.559C1090.61,-161.19 1150.5,-160.671 1189.28,-160.335"></path>
+<polygon fill="black" stroke="black" points="1189.66,-163.832 1199.63,-160.246 1189.6,-156.832 1189.66,-163.832"></polygon>
 </g>
 <!-- Mathematica&#45;&gt;Julia -->
-<g id="edge96" class="edge"><title>Mathematica-&gt;Julia</title>
-<path fill="none" stroke="black" d="M1057.69,-236.525C1099.42,-236.887 1153.58,-237.356 1189.5,-237.667"></path>
-<polygon fill="black" stroke="black" points="1189.54,-241.167 1199.57,-237.754 1189.6,-234.167 1189.54,-241.167"></polygon>
+<g id="edge108" class="edge"><title>Mathematica-&gt;Julia</title>
+<path fill="none" stroke="black" d="M1039.37,-102.839C1083.41,-116.185 1151.55,-136.832 1192.75,-149.318"></path>
+<polygon fill="black" stroke="black" points="1191.78,-152.68 1202.36,-152.231 1193.81,-145.981 1191.78,-152.68"></polygon>
 </g>
 <!-- R&#45;&gt;Rowan -->
-<g id="edge114" class="edge"><title>R-&gt;Rowan</title>
-<path fill="none" stroke="black" d="M1023,-162.922C1075.84,-161.667 1198.65,-163.554 1292,-202 1510.39,-291.949 1548.36,-356.626 1714,-525 1770.6,-582.538 1757.4,-622.606 1822,-671 1837.91,-682.92 1858.18,-691.235 1876.15,-696.845"></path>
-<polygon fill="black" stroke="black" points="1875.27,-700.235 1885.85,-699.689 1877.24,-693.518 1875.27,-700.235"></polygon>
+<g id="edge130" class="edge"><title>R-&gt;Rowan</title>
+<path fill="none" stroke="black" d="M1023.14,-236.209C1150.45,-246.968 1706.27,-293.939 1872.73,-308.005"></path>
+<polygon fill="black" stroke="black" points="1872.86,-311.529 1883.12,-308.884 1873.45,-304.554 1872.86,-311.529"></polygon>
 </g>
 <!-- R&#45;&gt;Julia -->
-<g id="edge112" class="edge"><title>R-&gt;Julia</title>
-<path fill="none" stroke="black" d="M1020.85,-171.641C1061.75,-184.741 1145.42,-211.547 1192.96,-226.775"></path>
-<polygon fill="black" stroke="black" points="1191.94,-230.123 1202.53,-229.84 1194.07,-223.456 1191.94,-230.123"></polygon>
+<g id="edge128" class="edge"><title>R-&gt;Julia</title>
+<path fill="none" stroke="black" d="M1020.85,-226.359C1061.75,-213.259 1145.42,-186.453 1192.96,-171.225"></path>
+<polygon fill="black" stroke="black" points="1194.07,-174.544 1202.53,-168.16 1191.94,-167.877 1194.07,-174.544"></polygon>
 </g>
 <!-- Nial&#45;&gt;SaC -->
-<g id="edge108" class="edge"><title>Nial-&gt;SaC</title>
-<path fill="none" stroke="black" d="M1256.66,-89.1166C1331.36,-84.7607 1548.04,-78.4544 1714,-137 1787.64,-162.978 1860.82,-220.878 1896.88,-252.095"></path>
-<polygon fill="black" stroke="black" points="1894.58,-254.735 1904.41,-258.695 1899.2,-249.471 1894.58,-254.735"></polygon>
+<g id="edge124" class="edge"><title>Nial-&gt;SaC</title>
+<path fill="none" stroke="black" d="M1256.55,-309.011C1329.64,-314.658 1539.95,-331.649 1714,-353 1773.94,-360.352 1843.32,-371.301 1884.33,-378.027"></path>
+<polygon fill="black" stroke="black" points="1883.93,-381.509 1894.37,-379.683 1885.07,-374.602 1883.93,-381.509"></polygon>
 </g>
 <!-- IDL -->
-<g id="node99" class="node"><title>IDL</title>
+<g id="node110" class="node"><title>IDL</title>
 <ellipse fill="lightgrey" stroke="black" cx="1229" cy="-18" rx="27.2447" ry="18"></ellipse>
 <text text-anchor="middle" x="1229" y="-13.8" font-family="Times,serif" font-size="14.00">IDL</text>
 </g>
 <!-- SOL&#45;&gt;IDL -->
-<g id="edge124" class="edge"><title>SOL-&gt;IDL</title>
+<g id="edge140" class="edge"><title>SOL-&gt;IDL</title>
 <path fill="none" stroke="black" d="M1025.33,-18C1067.13,-18 1145.35,-18 1191.43,-18"></path>
 <polygon fill="black" stroke="black" points="1191.59,-21.5001 1201.59,-18 1191.59,-14.5001 1191.59,-21.5001"></polygon>
 </g>
 <!-- APL\\iv -->
-<g id="node39" class="node"><title>APL\\iv</title>
-<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1199" rx="39.4428" ry="18"></ellipse>
-<text text-anchor="middle" x="2188" y="-1194.8" font-family="Times,serif" font-size="14.00">APL\iv</text>
+<g id="node41" class="node"><title>APL\\iv</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1110" rx="39.4428" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1105.8" font-family="Times,serif" font-size="14.00">APL\iv</text>
 </g>
 <!-- APL\\iv&#45;&gt;BQN -->
-<g id="edge36" class="edge"><title>APL\\iv-&gt;BQN</title>
-<path fill="none" stroke="black" d="M2206.57,-1182.76C2242.15,-1149.88 2322.76,-1075.38 2363.08,-1038.1"></path>
-<polygon fill="black" stroke="black" points="2365.62,-1040.53 2370.59,-1031.17 2360.87,-1035.39 2365.62,-1040.53"></polygon>
+<g id="edge38" class="edge"><title>APL\\iv-&gt;BQN</title>
+<path fill="none" stroke="black" d="M1960.53,-1110C2009.99,-1110 2095.42,-1110 2146.02,-1110"></path>
+<polygon fill="black" stroke="black" points="2146.27,-1113.5 2156.27,-1110 2146.27,-1106.5 2146.27,-1113.5"></polygon>
 </g>
 <!-- Co&#45;dfns -->
-<g id="node41" class="node"><title>Co-dfns</title>
-<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1107" rx="42.2952" ry="18"></ellipse>
-<text text-anchor="middle" x="2188" y="-1102.8" font-family="Times,serif" font-size="14.00">Co-dfns</text>
+<g id="node51" class="node"><title>Co-dfns</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1256" rx="42.2952" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1251.8" font-family="Times,serif" font-size="14.00">Co-dfns</text>
 </g>
 <!-- Co&#45;dfns&#45;&gt;BQN -->
-<g id="edge38" class="edge"><title>Co-dfns-&gt;BQN</title>
-<path fill="none" stroke="black" d="M2217.37,-1093.96C2253.45,-1077.38 2315.64,-1048.8 2353.86,-1031.23"></path>
-<polygon fill="black" stroke="black" points="2355.41,-1034.37 2363.03,-1027.01 2352.49,-1028.01 2355.41,-1034.37"></polygon>
+<g id="edge48" class="edge"><title>Co-dfns-&gt;BQN</title>
+<path fill="none" stroke="black" d="M1951.58,-1243.46C1971.25,-1234.88 1997.5,-1222.92 2020,-1211 2069.67,-1184.68 2125.1,-1150.06 2157.96,-1128.95"></path>
+<polygon fill="black" stroke="black" points="2160.1,-1131.73 2166.61,-1123.37 2156.31,-1125.85 2160.1,-1131.73"></polygon>
 </g>
 <!-- Dyalog APL&#45;&gt;BQN -->
-<g id="edge46" class="edge"><title>Dyalog APL-&gt;BQN</title>
-<path fill="none" stroke="black" d="M1678.9,-1086.54C1690.1,-1092.62 1702.8,-1099.84 1714,-1107 1764.11,-1139.03 1767.11,-1163.11 1822,-1186 1997.89,-1259.37 2080.99,-1326.81 2248,-1235 2323.16,-1193.68 2363.42,-1092.63 2379.11,-1043.59"></path>
-<polygon fill="black" stroke="black" points="2382.48,-1044.55 2382.09,-1033.96 2375.79,-1042.48 2382.48,-1044.55"></polygon>
+<g id="edge54" class="edge"><title>Dyalog APL-&gt;BQN</title>
+<path fill="none" stroke="black" d="M1671.11,-1312.3C1702.98,-1288.9 1764.34,-1246.27 1822,-1220 1935.71,-1168.2 2080.24,-1132.97 2148.27,-1118.05"></path>
+<polygon fill="black" stroke="black" points="2149.09,-1121.45 2158.12,-1115.91 2147.61,-1114.61 2149.09,-1121.45"></polygon>
 </g>
 <!-- Dyalog APL&#45;&gt;GNU APL -->
-<g id="edge54" class="edge"><title>Dyalog APL-&gt;GNU APL</title>
-<path fill="none" stroke="black" d="M1686.05,-1085.17C1696.33,-1090.64 1706.66,-1097.84 1714,-1107 1820.55,-1240.05 1705.55,-1350.53 1822,-1475 1833.02,-1486.78 1848.22,-1494.72 1863.37,-1500.07"></path>
-<polygon fill="black" stroke="black" points="1862.68,-1503.52 1873.27,-1503.22 1864.8,-1496.85 1862.68,-1503.52"></polygon>
+<g id="edge64" class="edge"><title>Dyalog APL-&gt;GNU APL</title>
+<path fill="none" stroke="black" d="M1661.26,-1346.67C1687.05,-1382.62 1750.45,-1464.84 1822,-1512 1836.16,-1521.33 1853.07,-1528.66 1868.81,-1534.19"></path>
+<polygon fill="black" stroke="black" points="1867.84,-1537.55 1878.43,-1537.4 1870.06,-1530.91 1867.84,-1537.55"></polygon>
 </g>
 <!-- Dyalog APL&#45;&gt;NARS2000 -->
-<g id="edge52" class="edge"><title>Dyalog APL-&gt;NARS2000</title>
-<path fill="none" stroke="black" d="M1685.3,-1085.34C1695.67,-1090.84 1706.24,-1098.02 1714,-1107 1803.09,-1210.14 1729.09,-1294.29 1822,-1394 1834.38,-1407.28 1851.44,-1416.96 1867.86,-1423.85"></path>
-<polygon fill="black" stroke="black" points="1866.83,-1427.21 1877.41,-1427.6 1869.38,-1420.69 1866.83,-1427.21"></polygon>
+<g id="edge68" class="edge"><title>Dyalog APL-&gt;NARS2000</title>
+<path fill="none" stroke="black" d="M1656.89,-1347C1683.7,-1407.52 1772.34,-1602.47 1822,-1649 1835.36,-1661.52 1852.82,-1671.04 1869.29,-1678.03"></path>
+<polygon fill="black" stroke="black" points="1868.25,-1681.38 1878.84,-1681.85 1870.86,-1674.88 1868.25,-1681.38"></polygon>
 </g>
 <!-- Dyalog APL&#45;&gt;APL\\iv -->
-<g id="edge42" class="edge"><title>Dyalog APL-&gt;APL\\iv</title>
-<path fill="none" stroke="black" d="M1681.81,-1086.03C1716.11,-1101.18 1771.83,-1124.25 1822,-1138 1933.39,-1168.53 2068.33,-1186.26 2138.81,-1194.12"></path>
-<polygon fill="black" stroke="black" points="2138.83,-1197.64 2149.15,-1195.25 2139.59,-1190.68 2138.83,-1197.64"></polygon>
+<g id="edge50" class="edge"><title>Dyalog APL-&gt;APL\\iv</title>
+<path fill="none" stroke="black" d="M1662.81,-1311.39C1690.16,-1277.45 1754.41,-1202.18 1822,-1155 1839.78,-1142.59 1861.53,-1132.2 1880.02,-1124.54"></path>
+<polygon fill="black" stroke="black" points="1881.38,-1127.76 1889.35,-1120.79 1878.77,-1121.27 1881.38,-1127.76"></polygon>
 </g>
-<!-- Dyalog APL&#45;&gt;Co&#45;dfns -->
-<g id="edge48" class="edge"><title>Dyalog APL-&gt;Co-dfns</title>
-<path fill="none" stroke="black" d="M1693.41,-1082.87C1728.13,-1091.5 1777.75,-1102.44 1822,-1107 1933.37,-1118.46 2064.87,-1114.1 2135.67,-1110.3"></path>
-<polygon fill="black" stroke="black" points="2136.29,-1113.77 2146.08,-1109.72 2135.9,-1106.78 2136.29,-1113.77"></polygon>
+<!-- Dyalog APL&#45;&gt;Dyalog APL Vision -->
+<g id="edge60" class="edge"><title>Dyalog APL-&gt;Dyalog APL Vision</title>
+<path fill="none" stroke="black" d="M1654.6,-1347.04C1670.92,-1396.12 1723.68,-1531.89 1822,-1584 2006.96,-1682.03 2268.46,-1631.6 2384.52,-1601.33"></path>
+<polygon fill="black" stroke="black" points="2385.53,-1604.69 2394.3,-1598.74 2383.73,-1597.92 2385.53,-1604.69"></polygon>
 </g>
 <!-- Dyalog APL&#45;&gt;KAP -->
-<g id="edge40" class="edge"><title>Dyalog APL-&gt;KAP</title>
-<path fill="none" stroke="black" d="M1684.03,-1085.52C1694.58,-1091.1 1705.58,-1098.27 1714,-1107 1787.67,-1183.41 1741.31,-1251.05 1822,-1320 1872.56,-1363.2 2066.36,-1410.81 2149.15,-1429.66"></path>
-<polygon fill="black" stroke="black" points="2148.62,-1433.13 2159.14,-1431.92 2150.16,-1426.3 2148.62,-1433.13"></polygon>
+<g id="edge66" class="edge"><title>Dyalog APL-&gt;KAP</title>
+<path fill="none" stroke="black" d="M1707.46,-1326.28C1861.27,-1319.12 2274.32,-1299.9 2404.28,-1293.85"></path>
+<polygon fill="black" stroke="black" points="2404.73,-1297.33 2414.56,-1293.37 2404.41,-1290.34 2404.73,-1297.33"></polygon>
+</g>
+<!-- Dyalog APL&#45;&gt;Co&#45;dfns -->
+<g id="edge56" class="edge"><title>Dyalog APL-&gt;Co-dfns</title>
+<path fill="none" stroke="black" d="M1693.14,-1317.11C1743.24,-1303.62 1824.51,-1281.72 1874.97,-1268.13"></path>
+<polygon fill="black" stroke="black" points="1876.19,-1271.43 1884.94,-1265.45 1874.37,-1264.67 1876.19,-1271.43"></polygon>
 </g>
 <!-- Dyalog APL&#45;&gt;April -->
-<g id="edge44" class="edge"><title>Dyalog APL-&gt;April</title>
-<path fill="none" stroke="black" d="M1674.93,-1054.79C1708.38,-1034.12 1768.62,-997.754 1822,-970 1842.89,-959.14 1866.9,-948.09 1885.93,-939.659"></path>
-<polygon fill="black" stroke="black" points="1887.37,-942.852 1895.11,-935.622 1884.55,-936.444 1887.37,-942.852"></polygon>
+<g id="edge52" class="edge"><title>Dyalog APL-&gt;April</title>
+<path fill="none" stroke="black" d="M1656.43,-1311.05C1676.35,-1265.03 1735.38,-1141.7 1822,-1074 1839.27,-1060.5 1862.09,-1051.73 1881.36,-1046.22"></path>
+<polygon fill="black" stroke="black" points="1882.31,-1049.59 1891.07,-1043.63 1880.51,-1042.82 1882.31,-1049.59"></polygon>
 </g>
 <!-- Dyalog APL Extended -->
-<g id="node52" class="node"><title>Dyalog APL Extended</title>
-<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1071" rx="99.0032" ry="18"></ellipse>
-<text text-anchor="middle" x="1921" y="-1066.8" font-family="Times,serif" font-size="14.00">Dyalog APL Extended</text>
+<g id="node60" class="node"><title>Dyalog APL Extended</title>
+<ellipse fill="lightgrey" stroke="black" cx="1921" cy="-1476" rx="99.0032" ry="18"></ellipse>
+<text text-anchor="middle" x="1921" y="-1471.8" font-family="Times,serif" font-size="14.00">Dyalog APL Extended</text>
 </g>
 <!-- Dyalog APL&#45;&gt;Dyalog APL Extended -->
-<g id="edge50" class="edge"><title>Dyalog APL-&gt;Dyalog APL Extended</title>
-<path fill="none" stroke="black" d="M1718.54,-1071C1746.88,-1071 1780.32,-1071 1811.72,-1071"></path>
-<polygon fill="black" stroke="black" points="1718.14,-1067.5 1708.14,-1071 1718.14,-1074.5 1718.14,-1067.5"></polygon>
-<polygon fill="black" stroke="black" points="1811.84,-1074.5 1821.84,-1071 1811.84,-1067.5 1811.84,-1074.5"></polygon>
-</g>
-<!-- Dyalog APL&#45;&gt;RAD -->
-<g id="edge56" class="edge"><title>Dyalog APL-&gt;RAD</title>
-<path fill="none" stroke="black" d="M1661.29,-1053.43C1687.12,-1017.68 1750.59,-935.926 1822,-889 1840.1,-877.103 1862.66,-868.467 1881.57,-862.642"></path>
-<polygon fill="black" stroke="black" points="1882.76,-865.942 1891.37,-859.77 1880.79,-859.225 1882.76,-865.942"></polygon>
-</g>
-<!-- Dyalog APL&#45;&gt;Rowan -->
-<g id="edge58" class="edge"><title>Dyalog APL-&gt;Rowan</title>
-<path fill="none" stroke="black" d="M1659.99,-1053.2C1686.31,-1010.98 1755.68,-901.953 1822,-817 1846.11,-786.116 1876.46,-752.806 1896.94,-731.032"></path>
-<polygon fill="black" stroke="black" points="1899.68,-733.227 1904.01,-723.557 1894.6,-728.416 1899.68,-733.227"></polygon>
+<g id="edge58" class="edge"><title>Dyalog APL-&gt;Dyalog APL Extended</title>
+<path fill="none" stroke="black" d="M1683.35,-1350.67C1717.85,-1372.08 1772.79,-1405.28 1822,-1431 1838.09,-1439.41 1856.05,-1447.9 1872.16,-1455.21"></path>
+<polygon fill="black" stroke="black" points="1684.95,-1347.54 1674.62,-1345.22 1681.25,-1353.48 1684.95,-1347.54"></polygon>
+<polygon fill="black" stroke="black" points="1870.84,-1458.46 1881.4,-1459.37 1873.71,-1452.08 1870.84,-1458.46"></polygon>
 </g>
 <!-- dzaima/APL -->
-<g id="node60" class="node"><title>dzaima/APL</title>
-<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1016" rx="59.6878" ry="18"></ellipse>
-<text text-anchor="middle" x="2188" y="-1011.8" font-family="Times,serif" font-size="14.00">dzaima/APL</text>
+<g id="node63" class="node"><title>dzaima/APL</title>
+<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-1365" rx="59.6878" ry="18"></ellipse>
+<text text-anchor="middle" x="2188" y="-1360.8" font-family="Times,serif" font-size="14.00">dzaima/APL</text>
 </g>
 <!-- Dyalog APL&#45;&gt;dzaima/APL -->
-<g id="edge60" class="edge"><title>Dyalog APL-&gt;dzaima/APL</title>
-<path fill="none" stroke="black" d="M1694.57,-1059.52C1729.27,-1051.27 1778.34,-1040.65 1822,-1035 1924.48,-1021.75 2044.27,-1017.67 2117.88,-1016.45"></path>
-<polygon fill="black" stroke="black" points="2118.01,-1019.95 2127.96,-1016.3 2117.91,-1012.95 2118.01,-1019.95"></polygon>
+<g id="edge62" class="edge"><title>Dyalog APL-&gt;dzaima/APL</title>
+<path fill="none" stroke="black" d="M1698.36,-1338.86C1732.84,-1345.28 1780.04,-1353.16 1822,-1357 1924.79,-1366.4 2044.49,-1367.08 2118.01,-1366.33"></path>
+<polygon fill="black" stroke="black" points="2118.11,-1369.83 2128.07,-1366.21 2118.03,-1362.83 2118.11,-1369.83"></polygon>
+</g>
+<!-- Dyalog APL&#45;&gt;Rowan -->
+<g id="edge70" class="edge"><title>Dyalog APL-&gt;Rowan</title>
+<path fill="none" stroke="black" d="M1651.13,-1310.64C1666.11,-1182.59 1757.01,-425.68 1822,-348 1834.91,-332.563 1855.06,-323.744 1873.74,-318.707"></path>
+<polygon fill="black" stroke="black" points="1874.71,-322.074 1883.62,-316.341 1873.08,-315.267 1874.71,-322.074"></polygon>
+</g>
+<!-- Dyalog APL Extended&#45;&gt;Dyalog APL Vision -->
+<g id="edge72" class="edge"><title>Dyalog APL Extended-&gt;Dyalog APL Vision</title>
+<path fill="none" stroke="black" d="M1966.93,-1492.06C2022.56,-1511.86 2111.96,-1543.34 2128,-1547 2201.61,-1563.79 2286.7,-1573.2 2350.03,-1578.32"></path>
+<polygon fill="black" stroke="black" points="2349.76,-1581.81 2360,-1579.11 2350.31,-1574.83 2349.76,-1581.81"></polygon>
 </g>
 <!-- Dyalog APL Extended&#45;&gt;dzaima/APL -->
-<g id="edge62" class="edge"><title>Dyalog APL Extended-&gt;dzaima/APL</title>
-<path fill="none" stroke="black" d="M1986.83,-1057.55C2030,-1048.58 2086.28,-1036.9 2128.16,-1028.21"></path>
-<polygon fill="black" stroke="black" points="2129.14,-1031.58 2138.22,-1026.13 2127.71,-1024.73 2129.14,-1031.58"></polygon>
-</g>
-<!-- dzaima/APL&#45;&gt;BQN -->
-<g id="edge126" class="edge"><title>dzaima/APL-&gt;BQN</title>
-<path fill="none" stroke="black" d="M2247.87,-1016C2279.51,-1016 2317.73,-1016 2346.1,-1016"></path>
-<polygon fill="black" stroke="black" points="2346.46,-1019.5 2356.45,-1016 2346.45,-1012.5 2346.46,-1019.5"></polygon>
+<g id="edge74" class="edge"><title>Dyalog APL Extended-&gt;dzaima/APL</title>
+<path fill="none" stroke="black" d="M1961.39,-1459.5C2009.88,-1439.19 2092.01,-1404.79 2142.67,-1383.57"></path>
+<polygon fill="black" stroke="black" points="2144.18,-1386.73 2152.05,-1379.64 2141.48,-1380.27 2144.18,-1386.73"></polygon>
 </g>
 <!-- I&#45;&gt;BQN -->
-<g id="edge66" class="edge"><title>I-&gt;BQN</title>
-<path fill="none" stroke="black" d="M1946.03,-570.053C1966.3,-576.413 1995.78,-586.65 2020,-599 2128.72,-654.435 2166.42,-661.242 2248,-752 2314.41,-825.881 2359.33,-937.234 2377.69,-988.448"></path>
-<polygon fill="black" stroke="black" points="2374.48,-989.874 2381.1,-998.144 2381.08,-987.55 2374.48,-989.874"></polygon>
-</g>
-<!-- ELI -->
-<g id="node91" class="node"><title>ELI</title>
-<ellipse fill="lightgrey" stroke="black" cx="2188" cy="-491" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="2188" y="-486.8" font-family="Times,serif" font-size="14.00">ELI</text>
+<g id="edge78" class="edge"><title>I-&gt;BQN</title>
+<path fill="none" stroke="black" d="M1947.52,-679.572C1969.27,-683.842 2000.08,-692.964 2020,-712 2131.3,-818.371 2171.51,-1010.35 2183.06,-1082.02"></path>
+<polygon fill="black" stroke="black" points="2179.62,-1082.73 2184.61,-1092.08 2186.54,-1081.66 2179.62,-1082.73"></polygon>
 </g>
 <!-- Q&#45;&gt;ELI -->
-<g id="edge110" class="edge"><title>Q-&gt;ELI</title>
-<path fill="none" stroke="black" d="M1948.38,-491C1996,-491 2096.4,-491 2150.54,-491"></path>
-<polygon fill="black" stroke="black" points="2150.73,-494.5 2160.73,-491 2150.73,-487.5 2150.73,-494.5"></polygon>
+<g id="edge126" class="edge"><title>Q-&gt;ELI</title>
+<path fill="none" stroke="black" d="M1948.08,-822.556C1970.5,-826.177 2001.98,-834.918 2020,-856 2180.43,-1043.72 2044.73,-1168.53 2128,-1401 2139,-1431.7 2157.46,-1464.32 2170.8,-1486"></path>
+<polygon fill="black" stroke="black" points="2167.9,-1487.96 2176.17,-1494.58 2173.83,-1484.24 2167.9,-1487.96"></polygon>
 </g>
 <!-- mathematical notation -->
-<g id="node101" class="node"><title>mathematical notation</title>
-<ellipse fill="white" stroke="white" cx="97" cy="-272" rx="97.2468" ry="18"></ellipse>
-<text text-anchor="middle" x="97" y="-267.8" font-family="Times,serif" font-size="14.00">mathematical notation</text>
+<g id="node111" class="node"><title>mathematical notation</title>
+<ellipse fill="white" stroke="white" cx="97" cy="-270" rx="97.2468" ry="18"></ellipse>
+<text text-anchor="middle" x="97" y="-265.8" font-family="Times,serif" font-size="14.00">mathematical notation</text>
 </g>
 <!-- mathematical notation&#45;&gt;APL -->
-<g id="edge128" class="edge"><title>mathematical notation-&gt;APL</title>
-<path fill="none" stroke="black" d="M194.446,-272C224.839,-272 259.062,-272 291.897,-272"></path>
-<polygon fill="black" stroke="black" points="292.037,-275.5 302.037,-272 292.037,-268.5 292.037,-275.5"></polygon>
+<g id="edge142" class="edge"><title>mathematical notation-&gt;APL</title>
+<path fill="none" stroke="black" d="M194.446,-270C224.839,-270 259.062,-270 291.897,-270"></path>
+<polygon fill="black" stroke="black" points="292.037,-273.5 302.037,-270 292.037,-266.5 292.037,-273.5"></polygon>
 </g>
 </g>
 </svg>
