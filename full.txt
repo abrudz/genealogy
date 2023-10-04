@@ -34,6 +34,7 @@ digraph ArrayLanguages {
   "APL⋆PLUS/II" -> "APL+"
   "APL⋆PLUS/II" -> "SAX"
   "APL⋆PLUS/PC" -> "APL⋆PLUS/II"
+  "BQN" -> "Dyalog APL Vision"
   "BQN" -> "Goal"
   "BQN" -> "KAP"
   "BQN" -> "Uiua"
@@ -45,6 +46,7 @@ digraph ArrayLanguages {
   "Dyalog APL" -> "BQN"
   "Dyalog APL" -> "Co-dfns"
   "Dyalog APL" -> "Dyalog APL Extended" [dir = both]
+  "Dyalog APL" -> "Dyalog APL Vision"
   "Dyalog APL" -> "Dyalog APL′"
   "Dyalog APL" -> "dzaima/APL"
   "Dyalog APL" -> "GNU APL"
@@ -57,6 +59,7 @@ digraph ArrayLanguages {
   "Dyalog APL" -> "RAD"
   "Dyalog APL" -> "Rowan"
   "Dyalog APL" -> "Stencil"
+  "Dyalog APL Extended" -> "Dyalog APL Vision"
   "Dyalog APL Extended" -> "dzaima/APL"
   "GNU APL" -> "KAP"
   "I" -> "BQN"
