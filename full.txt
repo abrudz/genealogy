@@ -99,6 +99,7 @@ digraph ArrayLanguages {
   "Jelly" -> "TacO"
   "K" -> "April"
   "K" -> "CoSy"
+  "K" -> "gk"
   "K" -> "Glee"
   "K" -> "Goal"
   "K" -> "I"
